@@ -1,0 +1,8 @@
+{
+  "semver": false,
+  "min_version": null,
+  "max_version": null,
+  "location": "sosl",
+  "lang": "sosl",
+  "url": "https://github.com/aheber/tree-sitter-sfapex"
+}
